@@ -1,0 +1,92 @@
+{
+  "_args": [
+    [
+      "odoo-xmlrpc",
+      "/home/gerardo"
+    ]
+  ],
+  "_from": "odoo-xmlrpc@latest",
+  "_hasShrinkwrap": false,
+  "_id": "odoo-xmlrpc@1.0.8",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/odoo-xmlrpc",
+  "_nodeVersion": "10.15.3",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/odoo-xmlrpc_1.0.8_1555087442976_0.2724295087639701"
+  },
+  "_npmUser": {
+    "email": "faisalsami78@gmail.com",
+    "name": "faisalsami"
+  },
+  "_npmVersion": "6.4.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "odoo-xmlrpc",
+    "raw": "odoo-xmlrpc",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/odoo-xmlrpc/-/odoo-xmlrpc-1.0.8.tgz",
+  "_shasum": "b9ca3c0c85ea5c5a93fda4d709f12e346cbdb592",
+  "_shrinkwrap": null,
+  "_spec": "odoo-xmlrpc",
+  "_where": "/home/gerardo",
+  "author": {
+    "email": "faisalsami78@gmail.com",
+    "name": "Faisal Sami"
+  },
+  "bugs": {
+    "url": "https://github.com/faisalsami/odoo-xmlrpc/issues"
+  },
+  "dependencies": {
+    "url": "*",
+    "xmlrpc": "^1.3.1"
+  },
+  "description": "Nodejs client to call Odoo RPC's through xmlrpc library.",
+  "devDependencies": {},
+  "directories": {
+    "lib": "./lib/"
+  },
+  "dist": {
+    "fileCount": 19,
+    "integrity": "sha512-tkUwrlyARnkSsbwcQqpLDgyMXNC29cMTU4EZd1JmWK9+Q+gX19EVoqsYfrUDrVAu3gXQKDW/+UvAXibbP/ZDwQ==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcsMBTCRA9TVsSAnZWagAAHOcQAJl7pOF4n9zZYgGo87oE\nrAwrI8OFvvwCKGCjv0GaFDeS/nFcRbr48CdbseWO9JZzI3H11mINuE0SlvEE\n5Qxdr4BcOf3LjuHcOebMHR6RIBoK7x8IhfZTEM765YJgI3mUDfTS56V8nyRv\nGYayiRPQZRa8O7vLVo1SzCIbWwmZpAVDQT/HiEVFsFA8jigF/vzqCgJCSS1e\n4zI6DRIVZjIcOv6jN7s2ByVCLkBf1merWAp+SlYHsiJ3tjiInYMzaUCiMgNz\npYMdnooTmd4M5uL7BfPukCNqc3jf9ldXHb1MlmWiFwE0hMpcGe/qbON4APyF\nkaC4L7e5DmwspTXvSqVj0kBM5u4F+VEb0waasL3T0Fxstmi2QaQNHKrMB43C\nBdhbNez2MgR0cegpmL2s/BauoAap5QJCjhI5de8/ztLIOIRdm+ycGSaDG3NP\nU8gJUwfnTfxwUBhbEcErb3eArkP4WB2oVix4sLouVhH4waOsBE7A3FqX+ejU\neBCQe5m15gsBx4ZTmIYPBFINWWLW8CsMKxqrdI674xNd4dhOSsj2JYgdNv4a\nK5Fe/YC9bc13qeiX1lQz4Kf/iag7n64JoaxzgRUm4OiOnHIPUXVHTLFZ1YUp\ngMrXkml1e1eA1wyOggmjP54sNmxHBfhaQoJE7MHNSY2Ob/dUKcyxouQLJzBC\n5FoQ\r\n=H52D\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "b9ca3c0c85ea5c5a93fda4d709f12e346cbdb592",
+    "tarball": "https://registry.npmjs.org/odoo-xmlrpc/-/odoo-xmlrpc-1.0.8.tgz",
+    "unpackedSize": 31879
+  },
+  "engines": {
+    "node": ">=0.8",
+    "npm": ">=1.0.0"
+  },
+  "gitHead": "2b94645932de590476ff9ca3e7127dffde77a84b",
+  "homepage": "https://github.com/faisalsami/odoo-xmlrpc",
+  "keywords": [
+    "odoo",
+    "xmlrpc"
+  ],
+  "license": "Apache-2.0",
+  "main": "./lib/index.js",
+  "maintainers": [
+    {
+      "name": "faisalsami",
+      "email": "faisalsami78@gmail.com"
+    }
+  ],
+  "name": "odoo-xmlrpc",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faisalsami/odoo-xmlrpc.git"
+  },
+  "scripts": {},
+  "version": "1.0.8"
+}

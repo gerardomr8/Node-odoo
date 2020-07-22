@@ -1,0 +1,8 @@
+//Quadit
+
+1. sudo apt install wget
+2. wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash
+3. source ~/.profile
+4. nvm ls-remote //(nos saldra una lista con todas las versiones de node)
+5. nvm install 10.22.0 //Instalamos node, en mi caso requerimos la version 10 asi que escoji la ultima para compatibilidad
+6. node -v   Checamos si se instalo correctamente.
